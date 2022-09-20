@@ -61,7 +61,6 @@ why even introduce the `Matcher` class?
 Well the `Matcher` class can do so much more! Consider some of the more popular
 methods of the `Matcher` class below:
 
-
 | Method                             | Return Type | Description                                                                                                           |
 |------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------|
 | `end()`                            | int         | Returns the offset after the last character matched                                                                   |
